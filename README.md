@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
+[![DOI](https://zenodo.org/badge/768833373.svg)](https://zenodo.org/doi/10.5281/zenodo.10804331)
 
 <h2 align="center">NoHateBrazil: A Brazilian Portuguese Text Offensiveness Analysis System</h2>
 
