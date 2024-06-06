@@ -30,8 +30,7 @@ Vargas, F., Carvalho, I., Schmeisser-Nieto, W., Pardo, T.A.S., Benevenuto, F. (2
     publisher = "INCOMA Ltd., Shoumen, Bulgaria",
     url = "https://aclanthology.org/2023.ranlp-1.125",
     pages = "1180--1186",
-    abstract = "Hate speech is a surely relevant problem in Brazil. Nevertheless, its regulation is not effective due to the difficulty to identify, quantify and classify offensive comments. Here, we introduce a novel system for offensive comment analysis in Brazilian Portuguese. The system titled {``}NoHateBrazil{''} recognizes explicit and implicit offensiveness in context at a fine-grained level. Specifically, we propose a framework for data collection, human annotation and machine learning models that we used to build the system. In addition, we assess the potential of our system to reflect stereotypical beliefs against marginalized groups by contrasting them with counter-stereotypes. As a result, a friendly web application was implemented, which besides presenting relevant performance, showed promising results towards mitigation of the risk of reinforcing social stereotypes. Lastly, new measures were proposed to improve the explainability of offensiveness classification and reliability of the model{'}s predictions.",
-}
+   }
 <br>
 
 
