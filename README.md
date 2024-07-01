@@ -9,12 +9,14 @@ Web System: http://143.107.183.175:14581/
 <h2 align="left"> ABOUT </h2>
 <p align="justify">Hate speech is a surely relevant problem in Brazil. Nevertheless, its regulation is not effective due to the difficulty to identify, quantify and classify offensive comments. Here, we introduce a novel system for offensive comment analysis in Brazilian Portuguese. The system titled “NoHateBrazil” recognizes explicit and implicit offensiveness in context at a fine-grained level. Specifically, we propose a framework for data collection, human annotation and machine learning models that were used to build the system. In addition, we assess the potential of our system to reflect stereotypical beliefs against marginalized groups by contrasting them with counter-stereotypes. As a result, a friendly web application was implemented, which besides presenting relevant performance, showed promising results towards mitigation of the risk of reinforcing social stereotypes. Lastly, new measures were proposed to improve the explainability of offensiveness classification and reliability of the model’s predictions.</p>
 
+
 <h2 align="left"> CITING </h2>
 <p align="justify">
 Vargas, F., Carvalho, I., Schmeisser-Nieto, W., Pardo, T.A.S., Benevenuto, F. (2023). <b>NohateBrazil: A Brazilian Portuguese Text Offensiveness Analysis System</b>. Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pp.1180--1186. Varna, Bulgaria.  
 </p>
 
 <br>
+</br>
 
 <h2 align="left"> BIBTEX </h2>
 @inproceedings{vargas-etal-2023-nohatebrazil,
@@ -33,8 +35,9 @@ Vargas, F., Carvalho, I., Schmeisser-Nieto, W., Pardo, T.A.S., Benevenuto, F. (2
     url = "https://aclanthology.org/2023.ranlp-1.125",
     pages = "1180--1186",
    }
+   
 <br>
-
+</br>
 
 <h2 align="left"> FUNDING </h2>
 
