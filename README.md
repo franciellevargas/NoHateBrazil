@@ -19,7 +19,7 @@
 
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Carvalho, I., Schmeisser-Nieto, W., Pardo, T.A.S., Benevenuto, F. (2023). <b>NohateBrazil: A Brazilian Portuguese Text Offensiveness Analysis System</b>. Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pp.1180--1186. Varna, Bulgaria.  
+Vargas, F., Carvalho, I., Schmeisser-Nieto, W., Pardo, T.A.S., Benevenuto, F. (2023). <b>NohateBrazil: A Brazilian Portuguese Text Offensiveness Analysis System</b>. Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pp.1180--1186. Varna, Bulgaria. https://aclanthology.org/2023.ranlp-1.125
 </p>
 
 <br>
